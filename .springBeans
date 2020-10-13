@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.9.201906180643-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/java/com/intuit/craft/demo/PaymentProcessApplication.java</config>
+	</configs>
+	<configs>
+		<config>src/test/java/com/intuit/craft/demo/PaymentProcessApplicationTest.java</config>
+	</configs>
+	<autoconfigs>
+		<config>java:com.intuit.craft.demo.AirportApplication</config>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

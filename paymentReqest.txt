@@ -1,0 +1,15 @@
+{
+    "firstName" : "John",
+    "lastName" : "Doe",
+    "emailAddress" : "john.doe@gmail.com",
+    "address" : {
+        "street" : "1234 Given Lane",
+        "city" : "Toronto",
+        "province" : "ON",
+        "country" : "Canada"
+    },
+    "purchase":{
+        "item" : "Hat",
+        "amount" : "30.00"
+    }
+}
